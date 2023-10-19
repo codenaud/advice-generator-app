@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Challenge URL: [https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-xLJI_uMMm-](https://www.frontendmentor.io/solutions/advice-generator-app-xLJI_uMMm-)
 - Live Site URL: [https://codenaud.github.io/advice-generator-app/](https://codenaud.github.io/advice-generator-app/)
 
 ## My process
